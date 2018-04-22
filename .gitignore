@@ -1,0 +1,8 @@
+# IDE specific files
+*.suo
+*.DotSettings.user
+bin/
+obj/
+
+# Other files
+/References/
